@@ -1,6 +1,0 @@
-streamlit==1.39.0
-pandas==2.2.2
-numpy==1.26.4
-joblib==1.4.2
-tensorflow==2.16.2
-tensorflow_decision_forests==1.9.1
